@@ -9,3 +9,8 @@ More about the Arduino at [arduino/Arduino](https://github.com/arduino/Arduino) 
 A "sketch" (of Arduino code) is commonly written using the Arduino IDE. The "Arduino Programming Language" at first glance looks similar to C and C++, but there are now numerous languages that can be compiled for Arudino use. 
 
 
+## Arduino Projects
+
+Arduino projects can range from very simple LED circuits to more complex operations involving multiple parts.
+
+
