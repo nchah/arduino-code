@@ -14,3 +14,11 @@ A "sketch" (of Arduino code) is commonly written using the Arduino IDE. The "Ard
 Arduino projects can range from very simple LED circuits to more complex operations involving multiple parts.
 
 
+**BlinkSOS.ino**
+
+A very simple sketch that blinks the SOS signal using the attached LED(s).
+
+
+**E-robotica.ino**
+
+Final project to demonstrate Arduino's use as a prototype Turing test by posing a question and interpreting the responder's answer.

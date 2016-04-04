@@ -1,6 +1,7 @@
 /*
  E-robotica
- - Final project to demonstrate Arduino's use as a prototype anti-Turing test.
+ - Final project to demonstrate Arduino's use as a prototype Turing test 
+ by posing a question and interpreting the responder's answer.
 
 
  LiquidCrystal Library - scrollDisplayLeft() and scrollDisplayRight()
