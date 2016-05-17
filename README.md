@@ -22,3 +22,11 @@ A very simple sketch that blinks the SOS signal using the attached LED(s).
 **E-robotica.ino**
 
 Final project to demonstrate Arduino's use as a prototype Turing test by posing a question and interpreting the responder's answer.
+
+![Project](/images/arduino-parts.png?raw=true)
+
+![](/images/hello-world.png?raw=true)
+
+![](/images/light-sensor.jpg?raw=true)
+
+![](/images/e-robotica.JPG?raw=true)
